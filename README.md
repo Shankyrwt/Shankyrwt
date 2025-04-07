@@ -1,12 +1,9 @@
 <p align="left">👨🏻‍💻 <strong>About Me:</strong><br>
 🔧 I'm a DevOps Engineer passionate about automation, scalability, and cloud-native solutions.<br>
-💬 I'm a 19-year-old Machine Learning & Artificial Intelligence enthusiast from India.<br>
 ☁️ Currently exploring Google Cloud & Microsoft Azure.<br>
 🛠️ Skilled in CI/CD, Infrastructure as Code, and container orchestration.<br>
 🤝 Always open to collaboration on DevOps experiments and innovative tech.<br>
-👨‍💼 Former Project Lead Intern at GirlScript Foundation.<br>
 🎯 Life Motto: "Explore 🔥 and Explode 💣 with knowledge"<br>
-🏆 Grand Finalist of "Smart India Hackathon 2019" - Software Edition.<br>
 🎮 <strong>Hobbies:</strong> Gaming Addict 🎮 | Watching Anime 📺 | Reading Light Novels 📚 | Badminton (Neighbourhood Pro 😎)<br>
 ⚡ Fun Fact: I love attending tech meetups for learning and conferences for networking.</p>
 
