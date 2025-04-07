@@ -1,10 +1,25 @@
-<p align="left">👨🏻‍💻 About Me:<br>💻 I'm a Fullstack Developer, currently exploring Web3 Space<br>⏳ Exploring Google Cloud & Microsoft Azure<br>🚀 Always ready to collaborate for Dev Experiments<br>👨‍💻 Former Project Lead Intern at GirlScript Foundation<br>🎯 Life Hack: "Explore 🔥 and Explode 💣 with knowledge"<br>🏆 Grand Finalist of "Smart India Hackathon 2019" - Software Edition<br>⚡ Fun fact: I love to attend Meetups for learning & Conferences for Networking</p>
+<p align="left">👨🏻‍💻 <strong>About Me:</strong><br>
+🔧 I'm a DevOps Engineer passionate about automation, scalability, and cloud-native solutions.<br>
+💬 I'm a 19-year-old Machine Learning & Artificial Intelligence enthusiast from India.<br>
+☁️ Currently exploring Google Cloud & Microsoft Azure.<br>
+🛠️ Skilled in CI/CD, Infrastructure as Code, and container orchestration.<br>
+🤝 Always open to collaboration on DevOps experiments and innovative tech.<br>
+👨‍💼 Former Project Lead Intern at GirlScript Foundation.<br>
+🎯 Life Motto: "Explore 🔥 and Explode 💣 with knowledge"<br>
+🏆 Grand Finalist of "Smart India Hackathon 2019" - Software Edition.<br>
+🎮 <strong>Hobbies:</strong> Gaming Addict 🎮 | Watching Anime 📺 | Reading Light Novels 📚 | Badminton (Neighbourhood Pro 😎)<br>
+⚡ Fun Fact: I love attending tech meetups for learning and conferences for networking.</p>
 
-###
+<p><strong>📘 Currently Learning:</strong><br>
+✨ Data Structures & Algorithms<br>
+✨ Generative Adversarial Networks (GANs)</p>
+
+<h3>⚡️ My Reaction When CI/CD Pipeline Passes on First Try</h3>
+<img src="./assets/1936.gif" width="400" alt="Excited celebration" />
 
 <div align="center">
 </div>
-
+aa
 ###
 
 <div align="left">
